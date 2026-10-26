@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../DBFirstApp/DBFirstApp.csproj" Id="78a40f68-c651-4950-9237-c649c42de485" />
+  <Project Path="Lab1.csproj" />
+</Solution>
